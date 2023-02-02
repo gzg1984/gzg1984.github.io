@@ -17,6 +17,7 @@ Syntax highlighted code block
 # Header 1
 ## 日本动画剧集
 ### 2T Kingston U盘
+![Image](kingston2t.jpg)
 - 东京食尸鬼
 - 小林家的龙女仆
 - 为美好世界献上祝福
@@ -52,7 +53,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](kingston2t.jpg)
+[Link](url) and 
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
