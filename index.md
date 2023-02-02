@@ -1,3 +1,6 @@
+# Self Link
+[gzg1984.github.io](https://gzg1984.github.io/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gzg1984/gzg1984.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
