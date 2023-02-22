@@ -18,38 +18,38 @@ Syntax highlighted code block
 ## 日本动画剧集
 ### 2T Vedio/日本动画
 ![Image](kingston2t.jpg)
--[2021]奇蛋物语
--[2022]彻夜之歌
--东京食尸鬼
--[2022]即使如此依旧步步逼近
--小林家的龙女仆
--[2022]赛博朋克：边缘跑手Cyberpunk.Edgerunners
--[多季度]OverLord
--合集 悠哉日常大王 [のんのんびより]
--无职转生 ～在异世界认真地活下去
--末日时在做什么有没有空可以来拯救吗
--[2022]契约之吻_Engage Kiss
--[2022]测不准的阿波连同学
--[生肉]无头骑士异闻录 [Durarara!! デュラララ!!]
--合集 命运石之门 [シュタインズ・ゲート]
--[2022]异世界叔叔 Isekai Ojisan
--[2022]间谍过家家
--为美好世界献上祝福
--人鱼之森
--青春期笨蛋不做兔女郎学姐的梦 [青春ブタ野郎はバニーガール先輩の夢を見ない]
--黄金神威
--[2022]更衣人偶陷入爱河
--[2022]莉可麗絲_Lycoris Recoil
--[多季度]来自深渊
--[多季度]鬼灭之刃
--[2019]女高中生的虚度日常
--月刊少女野崎君 [月刊少女野崎くん]
--灌篮高手重置版
--进击的巨人
--[2019]约定的梦幻岛
--[2020]格莱普尼尔
--[2021]女神宿舍的管理员
--[2022]孤独摇滚
+- [2022]测不准的阿波连同学
+- 合集 命运石之门 [シュタインズ・ゲート]
+- 小林家的龙女仆
+- 无职转生 ～在异世界认真地活下去
+- 末日时在做什么有没有空可以来拯救吗
+- 进击的巨人
+- [2022]异世界叔叔 Isekai Ojisan
+- 东京食尸鬼
+- [2020]格莱普尼尔
+- [2022]莉可麗絲_Lycoris Recoil
+- 灌篮高手重置版
+- [2022]即使如此依旧步步逼近
+- 月刊少女野崎君 [月刊少女野崎くん]
+- [2022]更衣人偶陷入爱河
+- [2021]奇蛋物语
+- [生肉]无头骑士异闻录 [Durarara!! デュラララ!!]
+- 人鱼之森
+- [2019]约定的梦幻岛
+- [2022]间谍过家家
+- [多季度]来自深渊
+- 合集 悠哉日常大王 [のんのんびより]
+- 青春期笨蛋不做兔女郎学姐的梦 [青春ブタ野郎はバニーガール先輩の夢を見ない]
+- 黄金神威
+- [2021]女神宿舍的管理员
+- [2022]赛博朋克：边缘跑手Cyberpunk.Edgerunners
+- [多季度]OverLord
+- [多季度]鬼灭之刃
+- 为美好世界献上祝福
+- [2022]彻夜之歌
+- [2022]契约之吻_Engage Kiss
+- [2022]孤独摇滚
+- [2019]女高中生的虚度日常
 
 
 ### Mac_1T/日本动画
@@ -81,3 +81,21 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## 进击的巨人 Should Reduce in:
+- 进击的巨人
+  - 2T Vedio.json
+- 进击的巨人3
+  - Mac_1T.json
+
+## 巨人 Should Reduce in:
+- 巨人
+  - Gordon.json
+- 进击的巨人3
+  - Mac_1T.json
+
+## 无职转生 Should Reduce in:
+- 无职转生
+  - Gordon.json
+- 无职转生 ～在异世界认真地活下去
+  - 2T Vedio.json
